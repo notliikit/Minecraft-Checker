@@ -1,6 +1,6 @@
 # Minecraft Checker
 
-This simple Python script is designed to check Minecraft usernames using the Mojang API. The script can take either a single username or a list of usernames and, optionally, a list of proxies to check the validity of these usernames.
+This Python script is designed to check Minecraft usernames using the Mojang API. The script can take either a single username or a list of usernames and, optionally, a list of proxies to check the validity of these usernames.
 
 ## Usage
 
