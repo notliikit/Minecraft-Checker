@@ -6,12 +6,12 @@ This Python script is designed to check Minecraft usernames using the Mojang API
 
 1. **Install Dependencies:**
     ```bash
-    pip install requests colorama
+    pip install -r requirements.txt
     ```
 
 2. **Run the Script:**
     ```bash
-    python script.py
+    python checker.py
     ```
 
     The script will prompt the user for an option and the required file paths, then proceed to check the usernames using the Mojang API.
